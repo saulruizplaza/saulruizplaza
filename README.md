@@ -63,6 +63,9 @@
 </p>
 <p>This website is part of a <b>year-long</b> project at my <b>High School</b> and is dedicated to highlighting the <b>rich history and culture of Cordoba</b>, a city that is a true <b>world heritage</b> treasure. Through this platform, I have created a space where visitors can explore the iconic monuments, <b>local traditions</b>, and cultural events that make Cordoba unique.<p>
 </div>
+</td>
+</tr>
+</table>
 <br>
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
