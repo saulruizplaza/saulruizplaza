@@ -54,7 +54,7 @@ My goal is to continue growing in the sector, attain positions of high responsib
 ## <img src="./img/clap.gif" width=25>Highlighted projects
 <table>
 <tr>
-<td width="50%">
+<td>
 <h3 align="center">PowerShell</h3>
 <div align="center">
 <a href="https://github.com/saulruizplaza/PowerShell" target="_blank"><img src="./img/powershell.png" width="400" style="border-radius: 20px;"alt="PowerShell"></a>
@@ -78,7 +78,7 @@ My goal is to continue growing in the sector, attain positions of high responsib
 ---
 
 <tr>
-<td width="50%">
+<td>
 <h3 align="center">Córdoba Patrimonio</h3>
 <div align="center">
 <a href="https://saulruizplaza.github.io/Cordoba-Patrimonio/" target="_blank"><img src="./img/logosinfondo.png" width="400" alt="Córdoba Patrimonio"></a>
