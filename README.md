@@ -57,7 +57,7 @@ My goal is to continue growing in the sector, attain positions of high responsib
 <td width="50%">
 <h3 align="center">PowerShell</h3>
 <div align="center">
-<a href="https://github.com/saulruizplaza/PowerShell" target="_blank"><img src="./img/powershell.png" width="400" style="border-radius: 20px;"alt="PowerShell"></a>
+<a href="https://github.com/saulruizplaza/PowerShell" target="_blank"><img src="./img/powershell.png" width="200" style="border-radius: 20px;"alt="PowerShell"></a>
 <p>
 </a> <a href="https://github.com/saulruizplaza/PowerShell" target="_blank">
 <a href="https://github.com/saulruizplaza/PowerShell" target="_blank">
@@ -77,7 +77,7 @@ My goal is to continue growing in the sector, attain positions of high responsib
 <td width="50%">
 <h3 align="center">Córdoba Patrimonio</h3>
 <div align="center">
-<a href="https://saulruizplaza.github.io/Cordoba-Patrimonio/" target="_blank"><img src="./img/logosinfondo.png" width="400" alt="Córdoba Patrimonio"></a>
+<a href="https://saulruizplaza.github.io/Cordoba-Patrimonio/" target="_blank"><img src="./img/logosinfondo.png" width="200" alt="Córdoba Patrimonio"></a>
 <p>
 
 </a>
