@@ -57,7 +57,7 @@ My goal is to continue growing in the sector, attain positions of high responsib
 <td width="50%">
 <h3 align="center">PowerShell</h3>
 <div align="center">
-<a href="https://github.com/saulruizplaza/PowerShell" target="_blank"><img src="./img/powershell.png" width="200" style="border-radius: 20px;"alt="PowerShell"></a>
+<a href="https://github.com/saulruizplaza/PowerShell" target="_blank"><img src="./img/powershell.png" width="400" style="border-radius: 20px;"alt="PowerShell"></a>
 <p>
 </a> <a href="https://github.com/saulruizplaza/PowerShell" target="_blank">
 <a href="https://github.com/saulruizplaza/PowerShell" target="_blank">
@@ -67,7 +67,7 @@ My goal is to continue growing in the sector, attain positions of high responsib
 
 
 </p>
-<p>This resource set includes practical PowerShell exercises to <strong>improve programming and automation skills</strong>. Each exercise has a <strong> description and a solution</strong>, covering topics like variables, operators, and control structures. It is perfect to learn and practice PowerShell step by step.<p>
+<p style="max-width: 250px; margin: auto;">This resource set includes practical PowerShell exercises to <strong>improve programming and automation skills</strong>. Each exercise has a <strong> description and a solution</strong>, covering topics like variables, operators, and control structures.It is perfect to learn and practice PowerShell step by step.</p>
 </div>
 
 
@@ -77,7 +77,7 @@ My goal is to continue growing in the sector, attain positions of high responsib
 <td width="50%">
 <h3 align="center">Córdoba Patrimonio</h3>
 <div align="center">
-<a href="https://saulruizplaza.github.io/Cordoba-Patrimonio/" target="_blank"><img src="./img/logosinfondo.png" width="200" alt="Córdoba Patrimonio"></a>
+<a href="https://saulruizplaza.github.io/Cordoba-Patrimonio/" target="_blank"><img src="./img/logosinfondo.png" width="400" alt="Córdoba Patrimonio"></a>
 <p>
 
 </a>
@@ -88,7 +88,7 @@ My goal is to continue growing in the sector, attain positions of high responsib
 
 
 </p>
-<p>This website is part of a <b>year-long</b> project at my <b>High School</b> and is dedicated to highlighting the <b>rich history and culture of Cordoba</b>, a city that is a true <b>world heritage</b> treasure. Through this platform, I have created a space where visitors can explore the iconic monuments, <b>local traditions</b>, and cultural events that make Cordoba unique.<p>
+<p style="max-width: 250px; margin: auto;">This website is part of a <b>year-long</b> project at my <b>High School</b> and is dedicated to highlighting the <b>rich history and culture of Cordoba</b>, a city that is a true <b>world heritage</b> treasure. Through this platform, I have created a space where visitors can explore the iconic monuments, <b>local traditions</b>, and cultural events that make Cordoba unique.<p>
 </div>
 
 
