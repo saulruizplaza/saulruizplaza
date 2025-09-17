@@ -76,7 +76,7 @@ My goal is to continue growing in the sector, attain positions of high responsib
 
 
 ---
-<table>
+
 <tr>
 <td width="50%">
 <h3 align="center">Córdoba Patrimonio</h3>
@@ -99,6 +99,7 @@ My goal is to continue growing in the sector, attain positions of high responsib
   <p>They can also discover <b>local traditions</b> and cultural events.</p>
   <p>Overall, this project allows people to appreciate what makes Cordoba unique.</p>
 </div>
+</table>
 </div>
 </div>
 
