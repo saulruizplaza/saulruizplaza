@@ -99,8 +99,7 @@ My goal is to continue growing in the sector, attain positions of high responsib
   <p>They can also discover <b>local traditions</b> and cultural events.</p>
   <p>Overall, this project allows people to appreciate what makes Cordoba unique.</p>
 </div>
-
-
+</div>
 </div>
 
 
