@@ -67,8 +67,10 @@ My goal is to continue growing in the sector, attain positions of high responsib
 
 
 </p>
-<p>This resource set includes practical PowerShell exercises to <strong>improve programming and automation skills</strong>.</p>
-  <p>Each exercise has a <strong>description and a solution</strong>, covering topics like variables, operators, and control structures.</p>
+  <p>This resource set includes practical PowerShell exercises.</p>
+  <p>It is designed to <strong>improve programming and automation skills</strong>.</p>
+  <p>Each exercise has a <strong>description and a solution</strong>.</p>
+  <p>Topics covered include variables, operators, and control structures.</p>
   <p>It is perfect to learn and practice PowerShell step by step.</p>
 </div>
 
@@ -90,9 +92,14 @@ My goal is to continue growing in the sector, attain positions of high responsib
 
 
 </p>
-<p>This website is part of a <b>year-long</b> project at my <b>High School</b> and is dedicated to highlighting the <b>rich history and culture of Cordoba</b>, a city that is a true <b>world heritage</b> treasure.</p>
+<div style="max-width: 250px; margin: auto;">
+  <p>This website is part of a <b>year-long</b> project at my <b>High School</b>.</p>
+  <p>It is dedicated to highlighting the <b>rich history and culture of Cordoba</b>, a city that is a true <b>world heritage</b> treasure.</p>
+  <p>Through this platform, I have created a space for visitors to explore iconic monuments.</p>
+  <p>They can also discover <b>local traditions</b> and cultural events.</p>
+  <p>Overall, this project allows people to appreciate what makes Cordoba unique.</p>
+</div>
 
-<p>Through this platform, I have created a space where visitors can explore the iconic monuments, <b>local traditions</b>, and cultural events that make Cordoba unique.</p>
 
 </div>
 
