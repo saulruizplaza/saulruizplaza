@@ -105,3 +105,37 @@ My goal is to continue growing in the sector, attain positions of high responsib
 </table>
 
 
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width=25>Certificates
+
+
+
+<table style="width=90%">
+  <tr>
+    <td>
+      <a href="https://www.credly.com/earner/earned/badge/2f3e8296-1ced-4bf7-ab56-667fcfadf939">
+        <img src="./img/endpoint.png" style="height:120px;">
+      </a>
+    </td>
+    <td>
+    <a href="./img/bac.pdf">
+    <img src="./img/bachibac.png" style="height:120px;">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="./img/delf.pdf">
+        <img src="./img/delfb2.png" style="height:120px;">
+      </a>
+    </td>
+    <td>
+          <a href="https://certificates.trinitycollege.com/aef28460-52b2-4353-8186-2fb2c690d646?key=c287e0f38f117cbdad3bae80d591d0b6047e79e92af3d906879abb92d9c405e4#acc.mlEXpU9I">
+        <img src="./img/iseii.png" style="height:120px;">
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
+## <img src="./img/message.gif" width=25> Contact
+[![Email](https://img.shields.io/badge/Email-salruz206@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:salruz206@gmail.com)
