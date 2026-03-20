@@ -59,7 +59,7 @@ My goal is to continue growing in the sector, attain positions of high responsib
 <td>
 <h3 align="center">Cybersecurity WritUps</h3>
 <div align="center">
-<a href="https://saulruizplaza.github.io/Cordoba-Patrimonio/" target="_blank"><img src="./img/writeup.png" width="400" alt="Córdoba Patrimonio"></a>
+<a href="https://github.com/saulruizplaza/WriteUps-CTF-Solutions" target="_blank"><img src="./img/writeup.png" width="400" alt="Córdoba Patrimonio"></a>
 <p>
 
 </a>
