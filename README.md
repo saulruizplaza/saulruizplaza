@@ -112,13 +112,14 @@ My goal is to continue growing in the sector, attain positions of high responsib
 <table style="width=90%">
   <tr>
     <td>
-      <a href="https://www.credly.com/earner/earned/badge/2f3e8296-1ced-4bf7-ab56-667fcfadf939">
+      <a href="https://certs.ine.com/2ffee7a7-0bc3-4e77-8d7e-91932fd4e032">
         <img src="./img/endpoint.png" style="height:120px;">
       </a>
     </td>
     <td>
     <a href="./img/bac.pdf">
     <img src="./img/bachibac.png" style="height:120px;">
+    </a>
     </td>
   </tr>
   <tr>
@@ -132,6 +133,7 @@ My goal is to continue growing in the sector, attain positions of high responsib
         <img src="./img/iseii.png" style="height:120px;">
       </a>
     </td>
+
   </tr>
 </table>
 
