@@ -165,6 +165,12 @@ I use **PlaSysX** as my personal brand to share projects, technical content and 
         <img src="./img/bachibac.png" height="120">
       </a>
     </td>
+    <td>
+      <a href="https://learn.microsoft.com/es-es/users/saulruizplaza/credentials/747e89b71e0091fe?ref=https%3A%2F%2Fwww.linkedin.com%2F" target="_blank" rel="noopener noreferrer">
+        <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" height="120" alt="Microsoft Certified: Azure Fundamentals (AZ-900)">
+        <br><strong>AZ-900 · Azure Fundamentals</strong>
+      </a>
+    </td>
   </tr>
   <tr>
     <td>
