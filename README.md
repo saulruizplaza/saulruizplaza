@@ -153,25 +153,32 @@ I use **PlaSysX** as my personal brand to share projects, technical content and 
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width=25> Certificates
 
-<table>
+### 🔐 Cybersecurity & Cloud
+
+<table align="center">
   <tr>
-    <td>
-      <a href="https://certs.ine.com/2ffee7a7-0bc3-4e77-8d7e-91932fd4e032">
-        <img src="./img/endpoint.png" height="120">
+    <td align="center" width="240">
+      <a href="https://certs.ine.com/2ffee7a7-0bc3-4e77-8d7e-91932fd4e032" target="_blank" rel="noopener noreferrer">
+        <img src="./img/endpoint.png" height="160" alt="eJPT certification">
       </a>
     </td>
+    <td align="center" width="240">
+      <a href="https://learn.microsoft.com/es-es/users/saulruizplaza/credentials/747e89b71e0091fe?ref=https%3A%2F%2Fwww.linkedin.com%2F" target="_blank" rel="noopener noreferrer">
+        <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" height="160" alt="Microsoft Certified: Azure Fundamentals (AZ-900)">
+      </a>
+    </td>
+  </tr>
+</table>
+
+### 🎓 Education & Languages
+
+<table>
+  <tr>
     <td>
       <a href="./img/bac.pdf">
         <img src="./img/bachibac.png" height="120">
       </a>
     </td>
-    <td>
-      <a href="https://learn.microsoft.com/es-es/users/saulruizplaza/credentials/747e89b71e0091fe?ref=https%3A%2F%2Fwww.linkedin.com%2F" target="_blank" rel="noopener noreferrer">
-        <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" height="120" alt="Microsoft Certified: Azure Fundamentals (AZ-900)">
-      </a>
-    </td>
-  </tr>
-  <tr>
     <td>
       <a href="./img/delf.pdf">
         <img src="./img/delfb2.png" height="120">
