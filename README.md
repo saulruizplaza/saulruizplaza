@@ -4,7 +4,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/youtube/channel/subscribers/UCcOkvgreZrXauRHyXlii0JA?style=for-the-badge&logo=youtube&logoColor=white&label=YouTube&labelColor=101010&color=FF0000">
+  <a href="https://github.com/saulruizplaza?tab=followers">
   <img src="https://img.shields.io/github/followers/saulruizplaza?style=for-the-badge&logo=github&logoColor=white&label=GitHub&labelColor=101010&color=7B3FF2">
+  </a>
   <a href="https://twitter.com/plasysx">
     <img src="https://img.shields.io/twitter/follow/plasysx?style=for-the-badge&logo=x&logoColor=white&label=Twitter/X&labelColor=101010&color=111111">
   </a>
@@ -147,6 +149,32 @@ I use **PlaSysX** as my personal brand to share projects, technical content and 
 </div>
 </td>
 </tr>
+
+<tr>
+<td>
+<h3 align="center">SecureYourPass</h3>
+
+<div align="center">
+<a href="https://github.com/santiquiros/SecureYourPass" target="_blank">
+  <img src="./img/profile/secureyourpass.png" width="400" alt="SecureYourPass">
+</a>
+
+<p>
+  <a href="https://github.com/santiquiros/SecureYourPass" target="_blank">
+    <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black" alt="Explore SecureYourPass on GitHub">
+  </a>
+</p>
+
+<p>
+  A <strong>Python CLI password manager</strong> with a local encrypted vault, password generation, security audits and encrypted backups.
+</p>
+
+<p>
+  Co-developed with <strong><a href="https://github.com/santiquiros">Santiago Quirós</a></strong> using Python, SQLite, Fernet and PBKDF2.
+</p>
+</div>
+</td>
+</tr>
 </table>
 
 ---
@@ -157,6 +185,11 @@ I use **PlaSysX** as my personal brand to share projects, technical content and 
 
 <table align="center">
   <tr>
+    <td align="center" width="240">
+      <a href="https://certs.ine.com/7c186d03-19a3-44f0-88a7-cea3f4d53d3d" target="_blank" rel="noopener noreferrer">
+        <img src="./img/profile/ecppt-badge.svg" height="160" alt="eCPPT certification">
+      </a>
+    </td>
     <td align="center" width="240">
       <a href="https://certs.ine.com/2ffee7a7-0bc3-4e77-8d7e-91932fd4e032" target="_blank" rel="noopener noreferrer">
         <img src="./img/endpoint.png" height="160" alt="eJPT certification">
@@ -191,6 +224,41 @@ I use **PlaSysX** as my personal brand to share projects, technical content and 
     </td>
   </tr>
 </table>
+
+---
+
+<a id="videos"></a>
+
+## Learn with PlaSysX
+
+I share cybersecurity labs, practical explanations and lessons from my learning journey. These videos are in **Spanish**.
+
+<table>
+  <thead>
+    <tr>
+      <th align="center" width="33%">Drupalgeddon2 · eJPTv2</th>
+      <th align="center" width="33%">Directorios ocultos</th>
+      <th align="center" width="33%">Dance Samba · DockerLabs</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://www.youtube.com/watch?v=SVQUcHKf_Hg&amp;t=1s" title="Esta vulnerabilidad me cayó en el eJPTv2 | Drupalgeddon2"><img src="https://i.ytimg.com/vi/SVQUcHKf_Hg/mqdefault.jpg" width="260" alt="Esta vulnerabilidad me cayó en el eJPTv2 | Drupalgeddon2"></a></td>
+      <td align="center"><a href="https://www.youtube.com/watch?v=pywv7f4faW4" title="4 Herramientas de HACKERS para encontrar DIRECTORIOS OCULTOS en una WEB"><img src="https://i.ytimg.com/vi/pywv7f4faW4/mqdefault.jpg" width="260" alt="4 Herramientas de HACKERS para encontrar DIRECTORIOS OCULTOS en una WEB"></a></td>
+      <td align="center"><a href="https://www.youtube.com/watch?v=9QpHYtKaRBw&amp;t=5s" title="EXPLOTA un servicio SAMBA MAL CONFIGURADO | Dance Samba – DockerLabs"><img src="https://i.ytimg.com/vi/9QpHYtKaRBw/mqdefault.jpg" width="260" alt="EXPLOTA un servicio SAMBA MAL CONFIGURADO | Dance Samba – DockerLabs"></a></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://www.youtube.com/watch?v=SVQUcHKf_Hg&amp;t=1s"><img src="https://img.shields.io/badge/Watch_video-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" width="140" alt="Watch video: Esta vulnerabilidad me cayó en el eJPTv2 | Drupalgeddon2"></a></td>
+      <td align="center"><a href="https://www.youtube.com/watch?v=pywv7f4faW4"><img src="https://img.shields.io/badge/Watch_video-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" width="140" alt="Watch video: 4 Herramientas de HACKERS para encontrar DIRECTORIOS OCULTOS en una WEB"></a></td>
+      <td align="center"><a href="https://www.youtube.com/watch?v=9QpHYtKaRBw&amp;t=5s"><img src="https://img.shields.io/badge/Watch_video-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" width="140" alt="Watch video: EXPLOTA un servicio SAMBA MAL CONFIGURADO | Dance Samba – DockerLabs"></a></td>
+    </tr>
+  </tbody>
+</table>
+
+[More videos on YouTube](https://www.youtube.com/@Plasysx) · [Read my blog](https://www.plasysx.com/blog)
+
+
+
 
 
 ## <img src="./img/message.gif" width=25> Contact
